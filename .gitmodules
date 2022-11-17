@@ -1,3 +1,6 @@
 [submodule "SJTUEE208_WWCS_frontend"]
 	path = SJTUEE208_WWCS_frontend
 	url = https://github.com/Simonwzm/SJTUEE208_WWCS_frontend.git
+[submodule "crawler_sript"]
+	path = crawler_sript
+	url = https://github.com/Simonwzm/history_tech_news_crawler_cnn
